@@ -1,3 +1,5 @@
+# generates an 8 character password with option to regenerate
+
 import secrets
 import string
 
